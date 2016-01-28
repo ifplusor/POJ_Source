@@ -1,2 +1,2 @@
-# POJ_Source
-本项目为POJ的题目解决代码。
+# code for oj
+题目解决代码。
